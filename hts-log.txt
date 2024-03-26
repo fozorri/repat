@@ -1,0 +1,653 @@
+HTTrack3.49-1+htsswf+htsjava launched on Mon, 25 Mar 2024 22:09:43 at https://www.bcp.com.bo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.bcp.com.bo/ -O1 "C:\Users\villa\Desktop\Nueva carpeta\bcp\Bcp" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:09:58	Error: 	Exit requested by shell or user
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/images/banco-7bb6c1cf.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/banner-background-b9a1a95e.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/comunidad/comunidad3-c7b33819.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/desarrollo/desarrollo-9ab4e9d1.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/images/plan-premium-header-50cd9142.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/images/ajax-loader-7a1aa436.gif
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/slick-2dff0768.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/slick-2dff0768.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/slick-af91c12f.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/slick-3331eebd.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/slick-17f63c6f.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/images/chica.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/indicador.png
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-thin-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-thin-webfontd41d.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-thin-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-thin-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-thin-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/francois_regular.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/lato_regular.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-it-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-it-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-it-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-it-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-it-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-boldit-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-boldit-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-boldit-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-boldit-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-boldit-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-medium-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-medium-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-medium-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-medium-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-medium-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-mediumit-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-mediumit-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-mediumit-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-mediumit-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-mediumit-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-black-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-black-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-black-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-black-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-black-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-bold-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-bold-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-bold-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-bold-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-bold-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-heavy-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-heavy-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-heavy-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-heavy-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-heavy-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-thin-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-regular-webfont.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-regular-webfontd41d.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-regular-webfont.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-regular-webfont.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/flexo/flexo-regular-webfont.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/fondo_tipo5.png
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/img/bullet_01.png
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/imagen001.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/imagen002.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/imagen003.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/imagen004.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/imagen005.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/Chica_Celular_1920.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/Fantasticos.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/invita.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/Invita_y_Ahorra.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/bm_bi.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-Black.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-BlackItalic.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-Bold.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-BoldItalic.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-Italic.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-Light.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-LightItalic.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-Medium.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-MediumItalic.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-Regular.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-Thin.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/fonts/roboto/Roboto-ThinItalic.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Scripts/slick/ajax-loader.gif
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Scripts/slick/fonts/slick.eot
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Scripts/slick/fonts/slick.eot?
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Scripts/slick/fonts/slick.woff
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Scripts/slick/fonts/slick.ttf
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Scripts/slick/fonts/slick.svg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/owl.video.play.png
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/imgSeguroVida1.jpg
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/segurovidaForm.jpg
+22:09:58	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.bcp.com.bo/)
+22:09:58	Error: 	"Not Found" (404) at link https://www.bcp.com.bo/POST (from https://www.bcp.com.bo/)
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/a
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/b.resolvedLink
+22:09:58	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/signals/iwl.js
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/bcp-cabeza-frontis.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/nuestra-comunidad-bcp-37118f27.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/POST
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/img_credito_efectivo1.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CreditoATuMedida/CreditoHipotecarioDeVivienda
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/CREDIO_HIPOTECARIO2.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CreditoATuMedida/CreditoVehicular
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/CREDITO_VEHICULAR_PLUS2.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CreditoATuMedida/CreditoDeViviendaSinGarantia
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/CREDITO_VIVIENDA2.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CreditoATuMedida/CreditoEfectivo
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/dinero_e.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CreditoATuMedida/ContractosDeProductos3
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/contratos_productos2.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CreditoATuMedida/TuPrimeraCasa
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/VIVIENDA_SOCIAL2.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/BoletaGarantia
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/EducacionFinanciera
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/flecha.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/Flechas.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/banner_CuentaAhorro_CuentaMillonaria_V2.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/banner_CuentaAhorro_CuentaTasa.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro?productoId=8&moneda=BOL&code=&handler=GoToStartProcess
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/banner_CuentaAhorro_TeBanca.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaMenor/Inicio
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/bannerMobile_CuentaAhorro_CuentaMillonaria_V2.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/bannerMobile_CuentaAhorro_CuentaTasa.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/bannerMobile_CuentaAhorro_TeBanca.jpg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/Cuenta Millonaria.png
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/CuenTasa.png
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/BCP Te Banca.png
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/world.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/movil.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/monto.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/escudo.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/qr.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Alcancia_desktop.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Usuario_desktop.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Selfie_desktop.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/OTP_desktop.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Check_desktop.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Alcancia_mobile.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Usuario_mobile.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Selfie_mobile.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/OTP_mobile.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Check_mobile.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Agencias.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/iconos/Kioscos.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CanalesAtencion/PlataformaDigital
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/qr.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/up.png
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/CuentaAhorro/Dpf
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/02_bolsa_dinero_1.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/AdministraTuDinero/TarjetaDebito
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/03_tarjeta.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/AdministraTuDinero/ContractosDeProductos
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/04_contrato.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/05_tarifario.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/AdministraTuDinero/EnviarRecibirDinero
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/07_envio_recibo.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/08_efectivo.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/14_carrito.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/10_hojasueldo.svg
+22:09:59	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/caret-down-fill.svg
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/AdelantoSueldo/check.svg
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/Banner_Seguros.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/Banner_Seguros_mobile1.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/inconos BCP-16.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/Seguros/SeguroProteccionBCP
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/inconos BCP-23.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/Seguros/SeguroMultiple
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/inconos BCP-25.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/Seguros/SeguroOncologicoBCP
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/inconos BCP-17.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/Seguros/SeguroVidaSalud
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/Descanso.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/Seguros/SeguroDeDescanso
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/inconos BCP-20.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/Seguros/PolizaSeguroColectivo
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/inconos BCP-28.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/Seguros/ComunicadoClientes
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/escudo.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/ubicacion.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Seguros/iphone.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Inversiones/POST
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Inversiones/MesaDinero/MesaDeDinero
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/MESA_DINERO2.jpg
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Inversiones/MesaDinero/WesternUnion
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/western_union2.jpg
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Inversiones/MesaDinero/Transferences
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/transferencias.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/WhatsApp.png
+22:10:00	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Inversiones/SeguridadInversiones
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/c2c.css
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/tarjetasCredito.css
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/banners_Productos.png
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/bannerprodmovil.png
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_Clasica1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_Oro1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_Signature1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/azul/TI.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/azul/ILM.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/azul/MM.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/azul/BV.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/azul/EP.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/azul/PT.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/azul/Line 33.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/azul/PP.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_ClasicaC1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_OroC1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_SignatureC1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_ClasicaV1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_OroV1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Tarjeta/T_SignatureV1.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/PagoenCuotas
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/EfectivoPreferente
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Tarifario/Tarjetas_de_Credito_Tarifario
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/12_Tarjeta.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/TarjetaDeCredito/ContractosDeProductos2
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/13_Productos.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Compras por Internet BCP.pdf
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Renovacion_TD_TC.pdf
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/iconos/naranja/cuenta/15_renTarjeta.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Rubros_y_Comercios_Habilitados.pdf
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.google.com/recaptcha/api.js?render=6LfD_Y8UAAAAAJhHIubV1WBDLEXS33e_gdN-wzZP
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/OFICINAS2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/cajero-automatico2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/BxI2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/BM2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/tiendita2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/opcion_soli.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/BILLETERA_MOVIL2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CanalesAtencion/BancaTelefono
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/BANCA_POR_TELEFONO2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/plataforma-digital2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CanalesAtencion/Creditoken
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/creditokenfisico2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CanalesAtencion/CafeBcp
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/CafeBcp2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CanalesAtencion/CreditokenVirtual
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/creditoken2.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CanalesAtencion/WhatsApp
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/whatsapp02.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/API.png
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/Check_beneficios.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/Banner_QR.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/Banner_QR_Mobile.jpg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/banca_movil.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/qr.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/cobra_qr.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/cobro_qr.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/imprime_qr.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/escanea_qr.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/banca_movil_mobile.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/icono_qr_mobile.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/pagar_qr_mobile.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/cobro_qr_mobile.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/imprime_qr_mobile.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/escanea_img_qr.svg
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/Beneficios.png
+22:10:01	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/QR/pagar_con_qr.jpg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/AdministraTuDinero/POST
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/AdministraTuDinero
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/Banner_desktop.png
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/Banner_mobile.png
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_creditos.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_adelantoSueldo.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_promoMillonaria.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_appBeneficios.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_mundo.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_creditoEfectivo.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_AdelantoSueldo2.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AdelantoSueldo/Login
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/AdministraTuDinero/CuentaSueldo/ProgramaBeneficios/AdelantoSueldo
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_super.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_farmacia.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_restaurante.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_sofa.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icono_GooglePlay.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/iconoAppstore.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/iPhone15.png
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/asfi1.png
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/asfi2.png
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/AdministraTuDinero/CuentaSueldo/ResolucionesAnteriores
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/12_Tarjeta.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/02_bolsa_dinero.png
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/escudo.png
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icon_canal_f.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Cuenta_Sueldo/icon_canal.svg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/negocio_a.jpg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/Afiche-PyMe2.jpg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/negocio_b.jpg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/negocio_c.jpg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/negocio_d.jpg
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Resolución Ministerial N° 634 (REGLAMENTO FOGACP).pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/decreto_supremo_2614.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Decreto Supremo 2136.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201612.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201701.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201702.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201703.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201704.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201705.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201706.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201707.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201708.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201709.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201710.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201711.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201712.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201801.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201802.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_mensual201803.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Abril 2018.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Mayo 2018.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Junio 2018_A.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/07 FOGACP.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Agosto 2018.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Septiembre 2018.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Octubre 2018.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Noviembre 2018.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Diciembre 2018.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Enero 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Febrero 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Marzo 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Abril 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Mayo 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/Estados Financieros FOGACP BCR - Junio 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Julio 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Agosto 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Septiembre 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Octubre 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Noviembre 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Diciembre 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Enero 2020.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Febrero 2020.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Marzo 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Abril 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Mayo 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Junio 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Julio 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Agosto 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Septiembre 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Octubre 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Noviembre 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Diciembre 2020_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Enero 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Febrero 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Marzo 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Abril 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Mayo 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Junio 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Julio 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Agosto 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Septiembre 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Octubre 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Noviembre 2021_2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Diciembre 2021.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Enero 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Febrero 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Marzo 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Abril 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Mayo 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Junio 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Julio 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Agosto 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Septiembre 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Octubre 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Noviembre 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Diciembre 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Enero 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Febrero 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Marzo 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Abril 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Mayo 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Junio 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Julio 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Agosto 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Septiembre 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/EstadosFinancierosFOGACP_BCR_Octubre2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Noviembre 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Diciembre 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Enero 2024.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGACP BCR - Febrero 2024.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/fogacp_eeff_auditados201701.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros Auditados FOGACP BCR - Gestión 2017.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros Auditados FOGACP BCR - Gestión 2018.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros Auditados FOGACP BCR - Gestión 2019.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros Auditados FOGACP BCR - Gestión 2020.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/MemoriaPyme 2016.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/MemoriaPyme 2017.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Memoria 2018 - FOGACP.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Memoria 2019 - FOGACP.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Memoria_2020_FOGACP_v2.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Memoria_2021_FOGACP.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Memoria_2022_FOGACP.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Resolucion_Ministerial_N_043.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Decreto_Supremo_N_4666.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Abril 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Mayo 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Junio 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Julio 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Agosto 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Septiembre 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Octubre 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Noviembre 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Diciembre 2022.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Enero 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Febrero 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Marzo 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Abril 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Mayo 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Junio 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Julio 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Septiembre 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/EstadosFinancierosFOGAGRE_BCR_Octubre2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Noviembre 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Diciembre 2023.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Enero 2024.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Estados Financieros FOGAGRE BCR - Febrero 2024.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Memoria_2022_FOGAGRE.pdf
+22:10:02	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Pyme/tabla_calculadora.gif
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/contrato_credito_negocios_a.pdf
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/contrato_credito_negocios_b.pdf
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/contrato_credito_negocios_c.pdf
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/Contrato Modelo de Préstamo Sector Productivo aprobado por ASFI.pdf
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Pymes/Calculadora
+22:10:03	Warning: 	File not added due to mirror cancel: https://kit.fontawesome.com/4a9fc4ff4c.js
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/Content/css?v=QUgk6-9R9AkK5p33kbcjQmo4yGdEAg9HDwGLDiaYyyI1
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/bundles/jquery?v=235DeCRyc2KKtm5-u-WowaGmWHU3ft44y448NxHpMf41
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/Logo_Bcp.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/fa-fa-icon-close.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/fondos/1.png
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/fondos/2.png
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/fondos/3.png
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/fondos/4.png
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/icon-mn-ci.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/icon-mn-ahorros.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/icon-mn-selfie.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/icon-mn-mensaje.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/ci-uno.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/ci-dos.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/requisito_cuentadeahorro.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/requisito_camara.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/requisito_telefonoemail.svg
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/fonts/fonts letter/img/img-fuera-horario.png
+22:10:03	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/BoletasGarantia2/bundles/js?v=R2mwUrOk5yi7AjOO4UuaKhCTwZ_mqkh15tVS_7e58WM1
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/POST
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/Logo_SeguroMedida_BCP_Mesa_de_trabajo.png
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/Tabla_DeporteATuMedida.png
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/seguridad_c.jpg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/seguridad_d.jpg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/banner_cuenta_corriente.png
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/CtaCorriente/CC_Carta_Solicitud v5.pdf
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/icon_download_file.svg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/CtaCorriente/NuevoFormulario20180.pdf
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/CtaCorriente/NuevoFormulario20171.pdf
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/CtaCorriente/NuevoFormulario20170.pdf
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/CtaCorriente/W8_Waiver.zip
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/CtaCorriente/CC_Auto_Certification_FATCA.docx
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/CtaCorriente/Nueva_Cartilla_de_subcategorias.pdf
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/icon_row_bcp.png
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/icon_edificio.svg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/icon_bandera.svg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaCorriente/opcion_caracteristicas.png
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/html/GuiasDeUso/video/CuentaCorriente/imgvid_cta_cte.png
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/html/GuiasDeUso/video/CuentaCorriente/bcp_ cta_cte_tutorial.mp4
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/cerrar.png
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/Formularios
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/HablaConNosotros
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/SeguridadEmpresas
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/CredinetPoliticaPrivacidad
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/Liquidez
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/OrigenDestinoFondos
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ServicioPago/PagoDeHaberes
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ComercioExterior/Tarifarios
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ComercioExterior/CartaExportacion
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/Liquidez/CuentasCorrientes
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Inversiones
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/mobil_a.jpg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/CREDINET_WEB2.jpg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/BANCAMOVIL2.jpg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/monitoreo.jpg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/CREDINET_WEB.jpg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/PAGO_HABERES2.jpg
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ServicioPago/CreditoEmpresarial
+22:10:04	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/CREDIBANK_EMPRESARIAL2.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/dinero_d.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/dinero_c.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/dinero_b.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/pago_provedores.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ServicioRecaudacion/ServiciosDeRecaudacion
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/SERVICIO_ECAUDACION2.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ServicioRecaudacion/DebitoAutomatico
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/DEBITO_AUTOMATICO2.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ComercioExterior/CartasDeCredito
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/ComercioExterior/Caratula Cartas de Credito.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ComercioExterior/Cobranzas
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/ComercioExterior/Caratula Cobranzas.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ComercioExterior/PagosInternacionales
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/TRANSFERENCIA_EXTERIOR2.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/ComercioExterior/Caratula Carta de Credito Standby.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ComercioExterior/Contactos
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/ComercioExterior/Caratula Contactos.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/carta_a.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/carta_b.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/carta_c.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/GARANTIAS_BANCARIAS2.jpg
+22:10:05	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/GARANTIAS_BANCARIAS.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/caratula1.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/caratula4.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/CREDIBANK_EMPRESARIAL.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/confianza_a.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/confianza_b.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/confianza_c.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/FIDEICOMISO2.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/FIDEICOMISO.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/ComercioExterior/POST
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/ComercioExterior/Standby 1.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/ComercioExterior/Cartas de Credito 2.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/mercaderia_a.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/banner_standby.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/banner_Microcredito.png
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/microcredito.png
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/banner_microcredito_movil.png
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Microcredito/Microcred1.png
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Microcredito/Microcred2.png
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Microcredito/Microcred3.png
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Microcredito/Microcred4.png
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/microcred_a.jpg
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/D.S._N_4847.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/Resolucion Ministerial 043 y Reglamento FOCREMI 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/NEstados Financieros FOCREMI BCR - Marzo 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/NEstados Financieros FOCREMI BCR - Abril 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/NEstados Financieros FOCREMI BCR - Mayo 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/Estados Financieros FOCREMI BCR - Junio 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/NEstados Financieros FOCREMI BCR - Julio 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/NEstados Financieros FOCREMI BCR - Agosto 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/Estados Financieros FOCREMI BCR - Septiembre 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/EstadosFinancierosFOCREMI_BCR_Octubre2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/NEstados Financieros FOCREMI BCR - Noviembre 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/NEstados Financieros FOCREMI BCR - Diciembre 2023.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/Estados Financieros FOCREMI BCR - Enero 2024.pdf
+22:10:06	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/descargas/FOCREMI/Estados Financieros FOCREMI BCR - Febrero 2024.pdf
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.googleoptimize.com/optimize.js?id=OPT-W9D8X6L
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/lib/materialize/dist/materialize-bundle.css?v=Kf-KMQMgPpX_X_DTWE885sTUQ7Mp2twzYCZoooPnPFk
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/favicon.ico
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/lib/sweetalert2/material-ui.css?v=BlCtXV6RJeJjMnSBjoC_1fUWrhx2UA0EYkGu6pyK1Qk
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/lib/swiper/swiper-bundle.min.css?v=XuTsFFMMt7DPD1ZHnhNqbZ2ULmX_oZs4isEFZkPgFiU
+22:10:07	Warning: 	File not added due to mirror cancel: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/css/site.css?v=z4_zs1qnvfr7SuQhVcL0ektXotI92SBCMTu1I5weeoE
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/AperturaCuentaAhorro.Web.styles.css?v=7RJbpW7cvcnZ2qRlvKLlA1N_sBrNKNNHCJjVSlrFwcQ
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/globo-icon.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/Logo_BCP.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/phone-orange-icon.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/qr-orange-icon.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/transferencias-orange-icon.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro?productoId=4&moneda=BOL&code=&handler=GoToStartProcess
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/PromoMillonariaDesktop-3.png
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/PromoMillonariaTablet-3.png
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/PromoMillonariaMobile-3.png
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/logo_cuentaMilloraria.png
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/logo_cuentasa.png
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/logo_bcpTeBanca.png
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/devices-icon.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/mobile-icon.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/dolar-icon.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/Escudo-icon-blue.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/qr.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/Paso1.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/Paso2.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/images/Paso3.svg
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/lib/sweetalert2/sweetalert2.min.js
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/lib/jquery/dist/jquery-3.6.1.min.js
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/lib/swiper/swiper-bundle.min.js
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/lib/materialize/dist/materialize.min.js
+22:10:07	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/AperturaCuentaAhorro/js/site.js?v=FvnC9rhhmdMM2a9t_cq_CktVyO40PzO1MfOIVJ10cxA
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/personas.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/administra_tu_dinero2.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/tarjeta_de_credito2.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/un_credito_a_tu_medida2.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/canales_de_atencion2.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/opcion_tarjeta_debito_credito.png
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/opcion_compras_x_internet.png
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/otros/logo_Bcpuntos.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/empresas.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/opcion_cuenta_corriente.png
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/pago_provedores2.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/servicio_de_recaudacion2.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/ComercioExterior/Caratula Principal - Comercio Exterior.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/FIDEICOMISO2.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Empresas/PromocionesNovedadesEmpresas
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Otros/promociones_novedades2.jpg
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/Content/tabs-style.css
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/Content/css?v=3USzO48WdfYFQ7om-WtTzRDXCA3L3ZYv87wOy5Svucs1
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/Ach/CaptchaImage
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/Content/img/Refresh.png
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/bundles/jquery?v=0PSxSATRfwmC3UKqb4XzgT664Vc1CmfXKc6x8JRqw0o1
+22:10:08	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/bundles/bootstrap?v=se-dCHMW9y3QDUuVuZtX2MvpkVZL_7JbSnsa3EzKIBI1
+22:10:08	Warning: 	File not added due to mirror cancel: https://unpkg.com/sweetalert/dist/sweetalert.min.js
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/Consultas/CaptchaImage
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Reclamos2/Principal/CaptchaImage
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Personas/CreditoATuMedida/POST
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/AdelantoSueldo/flecha.svg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/banner_CuentaAhorro.jpg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Credito-Digital/Login?param=Documentos
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/formulario-blanco.svg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Credito-Digital/Login?param=Firma
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/registro-blanco.svg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners_nue/banner_CuentaAhorro_mobile.png
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/dolar.svg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/datos.svg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/documento.svg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/registrado.svg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/CuentaAhorro/check1.svg
+22:10:09	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Credito-Digital/login
+22:10:10	Error: 	"Service Unavailable" (503) at link https://www.bcp.com.bo/AperturaCuentaDPF (from https://www.bcp.com.bo/)
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/plantilla_desarrollo/stylesheets/desarrollo.css
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/plantilla_desarrollo/javascripts/all.js
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/plantilla_desarrollo/images/desarrollo-arrow.svg
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/plantilla_desarrollo/img/XLAB_images.png
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Desarrollo/ApiPublica
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/plantilla_desarrollo/icons/icons8-internet-100.png
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Desarrollo/ApiPagosQR
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/plantilla_desarrollo/icons/icons8-código-qr-100.png
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Desarrollo/ApiPrivada
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/plantilla_desarrollo/icons/icons8-añadir-contacto-a-empresa-100.png
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Desarrollo/CaptchaImage
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/img/load.gif
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/plantilla_desarrollo/img/XLAB_images_peq.png
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners/ilimitado-yape-bolivia.jpg
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Promocion/YAPCB
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Content/images/Banners/invita-ya-yape-bolivia2.jpg
+22:10:10	Warning: 	File not added due to mirror cancel: https://www.bcp.com.bo/Promocion/Sov2
+22:10:10	Error: 	Exit requested by shell or user
+22:10:10	Error: 	"" (-1) at link https://www.bcp.com.bo/Content/images/varios_principal/oficinas.svg (from https://www.bcp.com.bo/)
+22:10:10	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-1 mirror complete in 27 seconds : 855 links scanned, 152 files written (14022975 bytes overall), 3 files updated [205976 bytes received at 7628 bytes/sec], 568384 bytes transferred using HTTP compression in 3 files, ratio 35%
+(7 errors, 631 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bcp.com.bo	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	z0cdnwl1qd1cgh45lgxii3mn
+www.bcp.com.bo	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.bcp.com.bo	TRUE	/	FALSE	1999999999	__RequestVerificationToken_L0JvbGV0YXNHYXJhbnRpYTI1	ZxJTKtnsc0IzuPycPkMlKIwklpx81gBB-v0rGu_3ypEZBnwOlLUWVbY43an_-NfK3_UlL921rwRojIVkKpGrmnmZM-Do9BMxN3mJRU_0RGQ1
+
